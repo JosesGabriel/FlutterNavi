@@ -7,6 +7,10 @@ A document that contains **Flutter**, **Dart**, **Material Design**, and **Mobil
 ## Flutter
 
 - Best reference is always [Flutter's API Documentation](https://api.flutter.dev/). Find out more about a Widget's information (constructor, methods, etc.) by pasting the Widget name into the search bar.
+
+- [Collection of sample apps](https://flutter.github.io/samples) created by the Flutter Dev Team. Good for dissecting methodologies within the context of an actual app.
+
+- [Official Flutter Youtube channel](https://www.youtube.com/c/flutterdev). Contains Keynote talks, and a series called 'Widget of the Week' where they give a summary about what a Widget does and how it works.
   
 - [Reddit community](https://www.reddit.com/r/FlutterDev) for Flutter Development.
 
@@ -14,8 +18,19 @@ A document that contains **Flutter**, **Dart**, **Material Design**, and **Mobil
   
 - [Medium article](https://medium.com/py-bits/turn-any-color-to-material-color-for-flutter-d8e8e037a837) about creating a custom Material Color (Primary Swatch) from any color.
 
-## Material Design
+
+## Mobile Design
+
+### General 
+___
+
+- [UPLabs](https://www.uplabs.com/) & [Dribbble](https://dribbble.com/shots/following/mobile) for finding design inspirations.
+
+### Material
+___
 
 - [Official Material Design website](https://material.io/)
 
-- [An article](https://material.io/design/material-studies/shrine.html#product-architecture) about a retail app that uses Material Design components and Material Theming to express branding for a variety of fashion and lifestyle items. They break down the architecture and show how Material Design is utilized in the platform. Hosted at the official Material documentation site. Informative read.
+- [An article](https://material.io/design/material-studies/shrine.html#product-architecture) about a retail app that uses Material Design components and Material Theming to express branding for a variety of fashion and lifestyle items. They break down the architecture and show how Material Design is utilized within the application. Hosted at the official Material documentation site. Informative read.
+
+
