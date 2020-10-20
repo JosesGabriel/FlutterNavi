@@ -20,6 +20,8 @@ A document that contains **Flutter**, **Dart**, **Material Design**, and **Mobil
 
 - [Demo](https://api.flutter.dev/flutter/dart-ui/BlendMode-class.html) of the different `BlendModes` in Flutter. Use together with the `ColorFiltered` Widget to apply color filters to any Widget.
 
+- [List of Material Design Icons](https://material.io/resources/icons/?style=baseline) that are available by default in the Icons class. Simply use the icon name as an enum like so: `Icons.play_arrow`.
+
 
 ## Mobile Design
 
