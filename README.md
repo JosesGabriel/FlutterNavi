@@ -18,6 +18,8 @@ A document that contains **Flutter**, **Dart**, **Material Design**, and **Mobil
   
 - [Medium article](https://medium.com/py-bits/turn-any-color-to-material-color-for-flutter-d8e8e037a837) about creating a custom Material Color (Primary Swatch) from any color.
 
+- [Demo](https://api.flutter.dev/flutter/dart-ui/BlendMode-class.html) of the different `BlendModes` in Flutter. Use together with the `ColorFiltered` Widget to apply color filters to any Widget.
+
 
 ## Mobile Design
 
