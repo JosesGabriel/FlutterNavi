@@ -24,6 +24,8 @@ A document that contains **Flutter**, **Dart**, **Material Design**, and **Mobil
 
 - [List of Material Design Icons](https://material.io/resources/icons/?style=baseline) that are available by default in the Icons class. Simply use the icon name as an enum like so: `Icons.play_arrow`.
 
+- [List of different Flutter architectural patterns](https://fluttersamples.com/).
+
 
 ## Mobile Design
 
