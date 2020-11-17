@@ -26,6 +26,8 @@ A document that contains **Flutter**, **Dart**, **Material Design**, and **Mobil
 
 - [List of different Flutter architectural patterns](https://fluttersamples.com/).
 
+- [Official documentation site](https://bloclibrary.dev/#/) of the Flutter Bloc architectural pattern.
+
 
 ## Mobile Design
 
